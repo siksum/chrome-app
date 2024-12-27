@@ -1,5 +1,33 @@
 # Chrome App - Momentum 
 
+### Tech Skills
+
+|HTML|CSS|Javascript|
+|:---:|:---:|:---:|
+
+<br>
+
+### 구현 기능
+
+- [x] 유저 등록 후 `localStorage`에서 관리
+- [x] `Math`를 이용한 `randomness` 구현
+  - [x] 명언
+  - [x] 배경 이미지
+- [x] `Date`를 이용한 시계 기능 구현
+- [x] `Todo List` 구현
+  - 등록 및 삭제가 가능하고, `localStorage`로 관리
+- [x] `openweathermap API`를 활용한 위치 정보 및 날씨 정보 알림 기능
+
+<br>
+
+### TODOs
+
+- 강의 내용 외에 CSS 넣어서 이쁘게 꾸미기
+
+<br> 
+
+### 학습 자료
+
 |No|Subject|Content|
 |:---:|:---:|:---|
 |1|[Javascript Basic](https://github.com/siksum/chrome-app/wiki/1.-Javascript-Basic)|[1.1 console.log](https://github.com/siksum/chrome-app/wiki/1.-Javascript-Basic#consolelog) <br> [1.2 Variable](https://github.com/siksum/chrome-app/wiki/1.-Javascript-Basic#variable) <br> [1.3 Data Type](https://github.com/siksum/chrome-app/wiki/1.-Javascript-Basic#data-type) <br> [1.4 Array](https://github.com/siksum/chrome-app/wiki/1.-Javascript-Basic#array) <br> [1.5 Object](https://github.com/siksum/chrome-app/wiki/1.-Javascript-Basic#object) <br> [1.6 Function](https://github.com/siksum/chrome-app/wiki/1.-Javascript-Basic#function) <br> [1.7 Conditions](https://github.com/siksum/chrome-app/wiki/1.-Javascript-Basic#conditions)|
